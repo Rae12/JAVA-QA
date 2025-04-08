@@ -1,8 +1,13 @@
+# ☕ Java Practice Code for Beginners
+
+Welcome to the **Java Practice Code** project!  
+This is a simple collection of Java programs made to help beginners learn and practice Java programming. Each folder includes example programs that you can run, study, and learn from.
+
 ---
 
 ## ✅ What You Can Learn
 
-| Folder         | What it Teaches                                           |
+| Features        | What it Teaches                                           |
 |----------------|-----------------------------------------------------------|
 | 🔤 `basics`     | Java fundamentals: variables, loops, conditions           |
 | 🧱 `oop`        | How to use classes, objects, inheritance, and more        |
